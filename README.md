@@ -1,6 +1,6 @@
 # Discord-Bot-2.0
 
-##### Discord Bot that I made for fun, main function is to play music however, future version will incorporate more functionality.
+#### Discord Bot that I made for fun, main function is to play music however, future version will incorporate more functionality.
 
 ## NOTE: 
 #### OPENJDK 13.0.2 needs to be installed - https://jdk.java.net/archive/
